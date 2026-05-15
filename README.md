@@ -8,7 +8,7 @@ A modern, responsive **To-Do List Web App** built using **Vanilla JavaScript**, 
 
 *  Add new tasks instantly
 *  Mark tasks as completed (toggle)
-*  Delete tasks بسهولة
+*  Delete tasks 
 *  Filter tasks (All / Active / Completed)
 *  Persistent storage using `localStorage`
 *  Instant UI updates without page reload
